@@ -38,7 +38,7 @@ would like more information about please reach out to the tutors.
 IntelliJ has built-in support for Gradle. To import your project:
 
 - Launch IntelliJ and choose `Open` from the start-up window.
-- Entering https://eng-git.canterbury.ac.nz/seng201-2024/team-55.git via VCS
+- Entering https://eng-git.canterbury.ac.nz/seng201-2024/team-55.git or https://github.com/yangzhangnz/SENG201-TowerCarts.git via VCS
 - At this point in the bottom right notifications you may be prompted to 'load gradle scripts', If so, click load
 
 **Note:** *If you run into dependency issues when running the app or the Gradle pop up doesn't appear then open the Gradle sidebar and click the Refresh icon.*
